@@ -30,18 +30,18 @@ A skill file has two main parts:
 
 ### Frontmatter Required Fields
 
-| Field | Constraints |
-|-------|-------------|
-| **name** | Max 64 chars; lowercase letters, numbers, and hyphens only; must not start/end with hyphens; must match parent directory name; recommended: gerund (verb+-ing) form |
-| **description** | Max 1024 chars; non-empty; should describe what the skill does AND when to use it; include specific keywords to help agents identify relevant tasks |
+| Field           | Constraints                                                                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **name**        | Max 64 chars; lowercase letters, numbers, and hyphens only; must not start/end with hyphens; must match parent directory name; recommended: gerund (verb+-ing) form |
+| **description** | Max 1024 chars; non-empty; should describe what the skill does AND when to use it; include specific keywords to help agents identify relevant tasks                 |
 
 ### Frontmatter Optional Fields
 
-| Field | Constraints |
-|-------|-------------|
-| **license** | License name or reference to a license file |
-| **compatibility** | Max 500 chars; indicates environment requirements |
-| **metadata** | Arbitrary key-value pairs (e.g., author, version) |
+| Field             | Constraints                                               |
+| ----------------- | --------------------------------------------------------- |
+| **license**       | License name or reference to a license file               |
+| **compatibility** | Max 500 chars; indicates environment requirements         |
+| **metadata**      | Arbitrary key-value pairs (e.g., author, version)         |
 | **allowed-tools** | Space-delimited list of pre-approved tools (Experimental) |
 
 
@@ -63,11 +63,11 @@ A skill file has two main parts:
 
 #### Degrees of Freedom
 
-| Level | Description |
-|-------|-------------|
-| **High freedom** | General text-based directions; multiple approaches are valid |
+| Level              | Description                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **High freedom**   | General text-based directions; multiple approaches are valid                                                                          |
 | **Medium freedom** | Instructions contain customizable pseudocode, code examples, or patterns; a preferred pattern exists but some variation is acceptable |
-| **Low freedom** | Instructions refer to specific scripts; a specific sequence must be followed |
+| **Low freedom**    | Instructions refer to specific scripts; a specific sequence must be followed                                                          |
 
 #### Complex Workflows
 - Break complex operations into clear, sequential steps

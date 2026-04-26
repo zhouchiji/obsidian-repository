@@ -1,0 +1,10 @@
+# 忽略工作空间配置（包含每个设备打开的标签页，建议忽略）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略插件的缓存数据
+.obsidian/plugins/*/data.json
