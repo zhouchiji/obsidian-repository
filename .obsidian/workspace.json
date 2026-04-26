@@ -11,10 +11,14 @@
             "id": "85a6bb502e5b90b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "agent-skills-extend/Custom Skills.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Custom Skills"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9151189a74879ee",
+  "active": "85a6bb502e5b90b4",
   "lastOpenFiles": [
     "agent-skills-extend/Custom Skills.md",
     "sc-agent-skills-files/L4/reading_material_4.md",
