@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent-skills-extend/Custom Skills.md",
+                "file": "sc-agent-skills-files/L4/reading_material_4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Skills"
+              "title": "reading_material_4"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +198,19 @@
   "active": "85a6bb502e5b90b4",
   "lastOpenFiles": [
     "agent-skills-extend/Custom Skills.md",
+    "agent-skills-extend/claude_skills_introduction_zh.md",
     "sc-agent-skills-files/L4/reading_material_4.md",
+    "sc-agent-skills-files/course_materials.md",
+    "sc-agent-skills-files/L5/reading_material_5.md",
+    "sc-agent-skills-files/L6_notes/reading_material_6.md",
+    "sc-agent-skills-files/L7/README.md",
+    "sc-agent-skills-files/L7_notes/reading_material_7.md",
     "sc-agent-skills-files/L3/prompts.md",
     "sc-agent-skills-files/L3/additional_references/table_setup.md",
     "sc-agent-skills-files/L3/reading_material_3.md",
     "agent-skills-extend/skills-explained-zh.md",
     "sc-agent-skills-files/L2/reading_material_2.md",
     "agent-skills-extend/Why Use Skills.md",
-    "agent-skills-extend/claude_skills_introduction_zh.md",
     "agent-skills-extend/png/skills-conceptual-diagram.png",
     "agent-skills-extend/png/未确认 757418.crdownload",
     "agent-skills-extend/png/prog-disc-2.png",
@@ -225,7 +231,6 @@
     "sc-agent-skills-files/L7/prompts/docs_researcher.md",
     "sc-agent-skills-files/L7/uv.lock",
     "sc-agent-skills-files/L7/utils.py",
-    "sc-agent-skills-files/L7/README.md",
     "sc-agent-skills-files/L7/pyproject.toml",
     "sc-agent-skills-files/L7/prompts",
     "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/references/examples_by_topic.md",
@@ -233,10 +238,6 @@
     "sc-agent-skills-files/L5/custom_skills/analyzing-time-series/references/interpretation.md",
     "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/SKILL.md",
     "sc-agent-skills-files/L5/custom_skills/analyzing-time-series/SKILL.md",
-    "sc-agent-skills-files/L5/sample_outputs/notes04.md",
-    "sc-agent-skills-files/L5/reading_material_5.md",
-    "sc-agent-skills-files/L4/custom_skills/generating-practice-questions/references/examples_by_topic.md",
-    "sc-agent-skills-files/L4/custom_skills/generating-practice-questions/assets/markdown_template.md",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-primary.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-reversed.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-horizontal.png",
