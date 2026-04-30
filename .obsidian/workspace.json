@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a6bb502e5b90b4",
+  "active": "c9151189a74879ee",
   "lastOpenFiles": [
-    "agent-skills-extend/Custom Skills.md",
+    "agent-skills-extend/自定义的skills.md",
     "agent-skills-extend/claude_skills_introduction_zh.md",
+    "agent-skills-extend/skills-explained-zh.md",
+    "agent-skills-extend/Skills基础.md",
     "sc-agent-skills-files/L4/reading_material_4.md",
     "sc-agent-skills-files/course_materials.md",
     "sc-agent-skills-files/L5/reading_material_5.md",
@@ -208,9 +209,7 @@
     "sc-agent-skills-files/L3/prompts.md",
     "sc-agent-skills-files/L3/additional_references/table_setup.md",
     "sc-agent-skills-files/L3/reading_material_3.md",
-    "agent-skills-extend/skills-explained-zh.md",
     "sc-agent-skills-files/L2/reading_material_2.md",
-    "agent-skills-extend/Why Use Skills.md",
     "agent-skills-extend/png/skills-conceptual-diagram.png",
     "agent-skills-extend/png/未确认 757418.crdownload",
     "agent-skills-extend/png/prog-disc-2.png",
