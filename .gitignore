@@ -8,3 +8,4 @@ Thumbs.db
 
 # 忽略插件的缓存数据
 .obsidian/plugins/*/data.json
+/.obsidian/workspace.json
