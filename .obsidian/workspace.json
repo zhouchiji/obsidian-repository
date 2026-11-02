@@ -25,14 +25,12 @@
             "id": "e7a22727493be806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "mml-book/Introduction and Motivation.md",
-                "mode": "source",
-                "source": false
+                "file": "AI Agent/思考题参考答案.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Introduction and Motivation"
+              "icon": "lucide-file-text",
+              "title": "思考题参考答案"
             }
           }
         ],
@@ -56,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -211,12 +211,19 @@
   },
   "active": "e7a22727493be806",
   "lastOpenFiles": [
-    "mml-book/img/machine_learning_four.png",
-    "mml-book/img",
-    "mml-book/新建文件夹",
-    "sc-agent-skills-files/L4/reading_material_4.md",
     "mml-book/Introduction and Motivation.md",
-    "mml-book",
+    "AI Agent/chapter7-Agent 的评估.pdf",
+    "AI Agent/chapter6-交互：观察与动作空间的扩展.pdf",
+    "AI Agent/chapter5-Coding Agent 与通用 Agent.pdf",
+    "AI Agent/chapter4-工具.pdf",
+    "AI Agent/chapter3-用户记忆和知识库.pdf",
+    "AI Agent/chapter2-上下文工程.pdf",
+    "AI Agent/chapter1-AI Agent 入门.pdf",
+    "AI Agent/afterword.pdf",
+    "AI Agent/思考题参考答案.pdf",
+    "AI Agent/introduction.pdf",
+    "mml-book/img/machine_learning_four.png",
+    "sc-agent-skills-files/L4/reading_material_4.md",
     "agent-skills-extend/自定义的skills.md",
     "agent-skills-extend/claude_skills_introduction_zh.md",
     "agent-skills-extend/skills-explained-zh.md",
@@ -231,31 +238,23 @@
     "sc-agent-skills-files/L3/reading_material_3.md",
     "sc-agent-skills-files/L2/reading_material_2.md",
     "agent-skills-extend/png/skills-conceptual-diagram.png",
-    "agent-skills-extend/png/未确认 757418.crdownload",
     "agent-skills-extend/png/prog-disc-2.png",
     "agent-skills-extend/png/prog-disc-1.png",
     "agent-skills-extend/Skill Cookbook.md",
     "sc-agent-skills-files/L1-partII/reading_material_1_II.md",
     "agent-skills-extend/png/agent-skills-architecture.png",
     "agent-skills-extend/png/agent-skills-context-window.png",
-    "agent-skills-extend/png/未确认 960.crdownload",
-    "agent-skills-extend/png/未确认 820837.crdownload",
-    "agent-skills-extend/png",
-    "agent-skills-extend/新建文件夹",
     "sc-agent-skills-files/L1-partI/reading_material_1_I.md",
-    "agent-skills-extend",
     "sc-agent-skills-files/L7/prompts/web_researcher.md",
     "sc-agent-skills-files/L7/prompts/repo_analyzer.md",
     "sc-agent-skills-files/L7/prompts/main_agent.md",
     "sc-agent-skills-files/L7/prompts/docs_researcher.md",
-    "sc-agent-skills-files/L7/uv.lock",
     "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/references/examples_by_topic.md",
     "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/assets/markdown_template.md",
     "sc-agent-skills-files/L5/custom_skills/analyzing-time-series/references/interpretation.md",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-primary.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-reversed.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-horizontal.png",
-    "sc-agent-skills-files/L3/brand_guidelines_files/logos/reversed.png",
-    "sc-agent-skills-files/L3/brand_guidelines_files/logos/primary.png"
+    "sc-agent-skills-files/L3/brand_guidelines_files/logos/reversed.png"
   ]
 }
