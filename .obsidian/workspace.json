@@ -4,37 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "57794efdc11f45d4",
+        "id": "f87187ba31701019",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6bb502e5b90b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sc-agent-skills-files/L4/reading_material_4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reading_material_4"
-            }
-          },
-          {
-            "id": "e7a22727493be806",
+            "id": "3b3837db1d9c10a2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AI Agent/思考题参考答案.pdf"
+                "file": "AI Agent/chapter3-用户记忆和知识库.pdf",
+                "page": 16,
+                "left": -15,
+                "top": 6,
+                "zoom": 0.9827308157505713
               },
               "icon": "lucide-file-text",
-              "title": "思考题参考答案"
+              "title": "chapter3-用户记忆和知识库"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "23847a93a7cc6b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f23a4c9ad85caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Agent/chapter3 引用解释.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter3 引用解释"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2fe3f141a14e5a3",
@@ -186,8 +196,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -195,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,24 +217,30 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a22727493be806",
+  "active": "3b3837db1d9c10a2",
   "lastOpenFiles": [
+    "AI Agent/chapter3 引用解释.md",
+    "AI Agent/chapter3-用户记忆和知识库.pdf",
+    "AI Agent/未命名.base",
+    "AI Agent/未命名.canvas",
+    "AI Agent/思考题参考答案.pdf",
+    "AI Agent/BM25 评分机制.md",
+    "AI Agent/afterword.pdf",
+    "sc-agent-skills-files/L4/reading_material_4.md",
     "mml-book/Introduction and Motivation.md",
     "AI Agent/chapter7-Agent 的评估.pdf",
     "AI Agent/chapter6-交互：观察与动作空间的扩展.pdf",
     "AI Agent/chapter5-Coding Agent 与通用 Agent.pdf",
     "AI Agent/chapter4-工具.pdf",
-    "AI Agent/chapter3-用户记忆和知识库.pdf",
     "AI Agent/chapter2-上下文工程.pdf",
     "AI Agent/chapter1-AI Agent 入门.pdf",
-    "AI Agent/afterword.pdf",
-    "AI Agent/思考题参考答案.pdf",
-    "AI Agent/introduction.pdf",
     "mml-book/img/machine_learning_four.png",
-    "sc-agent-skills-files/L4/reading_material_4.md",
     "agent-skills-extend/自定义的skills.md",
     "agent-skills-extend/claude_skills_introduction_zh.md",
     "agent-skills-extend/skills-explained-zh.md",
@@ -250,8 +267,6 @@
     "sc-agent-skills-files/L7/prompts/main_agent.md",
     "sc-agent-skills-files/L7/prompts/docs_researcher.md",
     "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/references/examples_by_topic.md",
-    "sc-agent-skills-files/L5/custom_skills/generating-practice-questions/assets/markdown_template.md",
-    "sc-agent-skills-files/L5/custom_skills/analyzing-time-series/references/interpretation.md",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-primary.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-reversed.png",
     "sc-agent-skills-files/L3/brand_guidelines_skill/craftedwell-brand/assets/logo-horizontal.png",
